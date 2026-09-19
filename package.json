@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "eslint",
     "worker": "tsx lib/Workers/batchWorker.ts",
-    "worker2":"tsx lib/Workers/jobworker.ts"
+    "worker2": "tsx lib/Workers/jobworker.ts"
   },
   "dependencies": {
     "axios": "^1.20.0",
